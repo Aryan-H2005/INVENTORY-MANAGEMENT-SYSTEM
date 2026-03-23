@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow - Inventory Management System",
+  "description": "A comprehensive full-stack inventory management system with real-time updates, secure authentication, and low-stock alerts.",
+  "requestFramePermissions": []
+}
